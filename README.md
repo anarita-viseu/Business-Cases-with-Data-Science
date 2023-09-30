@@ -1,4 +1,6 @@
 # Business-Cases-with-Data-Science
+Group projects for the Business Cases with Data Science course of the Master's Degree in Data Science and Advanced Analytics at NOVA IMS.
+
 Four different business cases were solved with the following objectives:
 - Model business cases following the CRISP-DM process model
 - Identify and implement the most adequate analytical models for different business cases
@@ -7,13 +9,38 @@ Four different business cases were solved with the following objectives:
 - Present results, insights, and potential business measures in an impactful way
 
 ## Project 1: Customer Segmentation
+Market segmentation, the process of identifying customers’ groups, makes use of geographic, demographic, psychographic, and behavioral characteristics of customers. By understanding the differences between the different segments, organizations can make better strategic choices about opportunities, product definition, positioning, promotions, pricing, and target marketing.
 
+Like most hotels, hotel H, a hotel located in Lisbon, Portugal, a member of the independent hotel chain C, uses a hospitality standard market segmentation based on the origin of the customer. 
+
+However, A, the new marketing manager of hotel H, recognized that this type of segmentation, as is today well-known (3, 4), is not useful for the hotel marketing department. 
+
+The name of the individual and the company name is anonymized to protect confidentiality. The referenced data are real
 
 ## Project 2: Market Basket Analysis
+C, a company created more than two decades ago, owns several restaurants in Cyprus. These restaurants are grouped into different brands according to the restaurant’s concept, location, and type of cuisine.
+
+One of the first brands created by C, specializing in Asian food, mainly Chinese food, is struggling to maintain its profit margin and continuous growth due to increasing competition and customers’ changes in habits. To try to revert this process, C wants to take advantage of its sales data to understand customers’ patterns of consumption and preferences.
 
 
 ## Project 3: Demand Forecasting
+The challenge is a monthly sales forecast based on real data from a Siemens business unit in Germany.
 
+Business area:
+- Selected product groups of one Business Unit of our Smart Infrastructure Division
+- Focus on biggest country of business unit (Germany)
+
+Data:
+- Sales data from October 2018 to April 2022
+- Important macro-economical indices
+
+Evaluation:
+
+Quantitative evaluation of score (Metric: RMSE) via separated test set
 
 ## Project 4: Predict Customer Churn
+Concerned about the increasingly negative impact caused by cancellations, A, the Revenue Manager Director of hotel chain C, a chain with resort and city hotels in Portugal, hired a consultant to evaluate the possibility of developing predictive models to predict net demand for their hotels. The hotel provided the consultant datasets of one resort hotel (H1) and of one city hotel (H2), of bookings that were due to arrive between July 1, 2015, and August 31, 2017.
 
+The name of the individual and the company name is anonymized to protect confidentiality. The referenced data are real.
+
+Net demand is defined as demand minus cancellations.
