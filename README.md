@@ -23,7 +23,7 @@ One of the first brands created by the company, specializing in Asian food, main
 
 
 ## Case 3: Demand Forecasting
-The challenge is a monthly sales forecast based on real data from a Siemens business unit in Germany.
+Monthly sales forecast based on real data from a Siemens business unit in Germany.
 
 Business area:
 - Selected product groups of one Business Unit of Siemens' Smart Infrastructure Division
