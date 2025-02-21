@@ -8,7 +8,7 @@ Four different business cases were solved with the following objectives:
 - Make data-driven decisions to optimize business processes
 - Present results, insights, and potential business measures in an impactful way
 
-## Project 1: Customer Segmentation
+## Case 1: Customer Segmentation
 
 Like most hotels, a hotel located in Lisbon, Portugal, uses a hospitality standard market segmentation based on the origin of the customer. 
 
@@ -16,13 +16,13 @@ However, the new marketing manager of the hotel recognized that this type of seg
 
 The name of the individual and the company name is anonymized to protect confidentiality. The referenced data are real.
 
-## Project 2: Market Basket Analysis
+## Case 2: Market Basket Analysis
 A company created more than two decades ago, owns several restaurants in Cyprus. These restaurants are grouped into different brands according to the restaurant’s concept, location, and type of cuisine.
 
 One of the first brands created by the company, specializing in Asian food, mainly Chinese food, is struggling to maintain its profit margin and continuous growth due to increasing competition and customers’ changes in habits. To try to revert this process, the company wants to take advantage of its sales data to understand customers’ patterns of consumption and preferences.
 
 
-## Project 3: Demand Forecasting
+## Case 3: Demand Forecasting
 The challenge is a monthly sales forecast based on real data from a Siemens business unit in Germany.
 
 Business area:
@@ -37,7 +37,7 @@ Evaluation:
 
 Quantitative evaluation of score (Metric: RMSE) via separated test set.
 
-## Project 4: Predict Customer Churn
+## Case 4: Predict Customer Churn
 Concerned about the increasingly negative impact caused by cancellations, the Revenue Manager Director of a hotel chain with resort and city hotels in Portugal, hired a consultant to evaluate the possibility of developing predictive models to predict net demand* for their hotels. The hotel provided the consultant datasets of one resort hotel (H1) and of one city hotel (H2), of bookings that were due to arrive between July 1, 2015, and August 31, 2017.
 
 The name of the individual and the company name is anonymized to protect confidentiality. The referenced data are real.
