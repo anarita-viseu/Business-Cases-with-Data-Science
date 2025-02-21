@@ -42,4 +42,4 @@ Concerned about the increasingly negative impact caused by cancellations, the Re
 
 The name of the individual and the company name is anonymized to protect confidentiality. The referenced data are real.
 
-* Net demand is defined as demand minus cancellations.
+*Net demand is defined as demand minus cancellations.
